@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.captsonetest1">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CaptsoneTest1">
+        <activity android:name=".CWPB3LinksActivity"/>
+        <activity android:name=".CWPB2LinksActivity" />
+        <activity android:name=".MARB3LinksActivity" />
+        <activity android:name=".MARB2LinksActivity" />
+        <activity android:name=".MADCapstonelinksActivity" />
+        <activity android:name=".HECAlinksActivity" />
+        <activity android:name=".CWPlinksActivity" />
+        <activity android:name=".RateusActivity" />
+        <activity android:name=".NeedhelpActivity" />
+        <activity android:name=".AboutusActivity" />
+        <activity android:name=".MARLinksActivity" />
+        <activity
+            android:name=".RepeatingActivity"
+            android:exported="true" />
+
+        <receiver android:name=".NotificationReceiver" />
+
+        <activity android:name=".StudyMaterialActivity" />
+        <activity android:name=".LinksActivity" />
+        <activity android:name=".AttendanceActivity" />
+        <activity android:name=".TimetableActivity" />
+        <activity android:name=".DashboardActivity" >
+         <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+         </intent-filter>
+        </activity>
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainActivity">
+
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CaptsoneTest1</string>
+    <string name="navigation_drawer_open">Open drawer</string>
+    <string name="navigation_drawer_close">Close drawer</string>
+    <string name="set">Set</string>
+    <string name="join_mar_lecture">Join MAR Lecture</string>
+    <string name="chicken">"Atharva_is_fkoef"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

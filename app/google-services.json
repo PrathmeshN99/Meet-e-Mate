@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764261264149",
+    "project_id": "captsonetest1",
+    "storage_bucket": "captsonetest1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764261264149:android:be20b18b6a6603389c571c",
+        "android_client_info": {
+          "package_name": "com.example.captsonetest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764261264149-8opl893jb58iummlotv6lqbg8lspgdik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGfIXrvGb5FJXyV77HyjYkJgYPIdi5HgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764261264149-8opl893jb58iummlotv6lqbg8lspgdik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
